@@ -11,4 +11,5 @@ lname = input("Please enter your Last Name:")
 Function_class_code2.reverse(fname, lname)
 
 print(" \nThis Python program to display the current date and time")
+print("-----------------------------------------------------------")
 Function_class_code2.current_date()
